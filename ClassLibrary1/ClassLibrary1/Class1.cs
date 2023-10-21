@@ -6,5 +6,6 @@ namespace ClassLibrary1
     public static void main(string[] args)
     {
         Console.WriteLine("hello master");
+        Console.WriteLine("salut");
     }
 }
