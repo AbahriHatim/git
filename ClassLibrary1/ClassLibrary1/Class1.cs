@@ -2,11 +2,9 @@
 
 namespace ClassLibrary1
 {
-    public class book
-    {
-        public string Titel;
-        public string Autor;
-        public int Pages;
 
+    public static void main(string[] args)
+    {
+        Console.WriteLine("hello master");
     }
 }
